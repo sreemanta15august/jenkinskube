@@ -13,7 +13,7 @@ spec:
         app: myapp
     spec:
       containers:
-      - image: gauravkumar9130/fbweb
+      - image: sreemanta15august/fbweb
         name: fbweb
         stdin: true
         tty: true
